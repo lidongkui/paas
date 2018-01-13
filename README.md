@@ -25,8 +25,8 @@ paas
 
 [回到顶部](#readme)<br>
 
-[![baidu]](http://baidu.com "百度logo")<br>
-[baidu]: https://www.baidu.com/img/bdlogo.gif<br>
+[![baidu]](http://baidu.com)
+  [baidu]: https://www.baidu.com/img/bdlogo.gif "百度logo"<br>
 
 ![][foryou]
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "fou you"<br>
