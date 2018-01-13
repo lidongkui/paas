@@ -26,4 +26,4 @@ paas
 [百度]:https://www.baidu.com/img/bdlogo.gif "百度logo" <br>
 
 ![][foryou]
-[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "fou you"
