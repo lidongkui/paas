@@ -29,4 +29,6 @@ paas
 [baidu]https://www.baidu.com/img/bdlogo.gif<br>
 
 ![][foryou]
-[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "fou you"
+[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "fou you"<br>
+
+[![weibo-logo]](http://weibo.com/linpiaochen)
