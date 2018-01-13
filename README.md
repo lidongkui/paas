@@ -25,7 +25,7 @@ paas
 
 [回到顶部](#readme)<br>
 
-[![baidu]](http://baidu.com)<br>
+[![baidu](http://baidu.com)]<br>
 [baidu]:https://www.baidu.com/img/bdlogo.gif "百度logo" <br>
 
 ![][foryou]
