@@ -10,8 +10,8 @@ paas
 普通文本，
 直接回车不能换行<br>
 要使用 \<br> <br>
-  
-文本 `文本` 文本 `文本` 文本<br>
+  
+文本 `高亮` 文本 `高亮` 文本<br>
 
 [我的Github](https://github.com/lidongkui/paas.git "点击进入") <br>
 
@@ -23,12 +23,14 @@ paas
 
 # [![](https://www.baidu.com/img/bdlogo.gif "百度logo")](http://baidu.com)<br>
 
-[回到顶部](#readme)<br>
+## [回到顶部](#readme)<br>
 
 [![baidu]](http://baidu.com)
-  [baidu]: https://www.baidu.com/img/bdlogo.gif "百度logo"<br>
 
 ![][foryou]
-[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "fou you"<br>
 
 [![weibo-logo]](http://weibo.com/linpiaochen)
+
+<br>
+[baidu]:  https://www.baidu.com/img/bdlogo.gif "百度logo"<br>
+[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "fou you"<br>
