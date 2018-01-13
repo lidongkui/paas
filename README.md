@@ -25,12 +25,12 @@ paas
 
 ## [回到顶部](#readme)<br>
 
-[![baidu]](http://baidu.com)
+[!(baidu)](http://baidu.com)
 
 ![][foryou]
 
 [![weibo-logo]](http://weibo.com/linpiaochen)
 
 <br>
-[baidu]:  https://www.baidu.com/img/bdlogo.gif "百度logo"<br>
+(baidu):  https://www.baidu.com/img/bdlogo.gif "百度logo"<br>
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif "fou you"<br>
