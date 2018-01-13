@@ -27,5 +27,5 @@ paas
 
 ![百度](https://www.baidu.com/img/bdlogo.gif "百度logo")
 
-[![baidu]](http://baidu.com)  
+[![baidu]](http://baidu.com)<br>  
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
