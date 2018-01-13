@@ -18,17 +18,11 @@ paas
 * Username：李东魁<br>
   * Username：李东魁<br>
     * Username：李东魁<br>
-    
-  单行文本<br>
-  
-  > 多行文本<br>
-  >> 多行文本<br>
-  >>> 多行文本<br>
 
 # ![百度](https://www.baidu.com/img/bdlogo.gif "百度logo")
 
+# [![](https://www.baidu.com/img/bdlogo.gif "百度logo")](http://baidu.com)<br>
 
-[![](https://www.baidu.com/img/bdlogo.gif "百度logo")](http://baidu.com)
 [百度]:https://www.baidu.com/img/bdlogo.gif "百度logo" <br>
 
 ![][foryou]
