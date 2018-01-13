@@ -13,7 +13,7 @@ paas
   
 文本 `文本` 文本 `文本` 文本<br>
 
-[我的Github](https://github.com/lidongkui/paas.git "悬停显示") <br>
+[我的Github](https://github.com/lidongkui/paas.git "点击进入") <br>
 
 * Username：李东魁<br>
   * Username：李东魁<br>
